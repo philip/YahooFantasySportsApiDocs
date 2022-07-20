@@ -1,0 +1,18 @@
+nav:
+    - Home: 'index.md'
+    - 'Guide':
+        - 'Getting Started': 'guide/GettingStarted.md'
+        - 'Resources and Collections': 'guide/ResourcesAndCollections.md'
+        - 'Game Resource': 'guide/game-resource.md' 
+        - 'Game Collection': 'guide/game-collection.md' 
+        - 'League Resource': 'guide/league-resource.md' 
+        - 'Leagues Collection': 'guide/leagues-collection.md' 
+        - 'Team Resource': 'guide/team-resource.md' 
+        - 'Roster Resource': 'guide/roster-resource.md' 
+        - 'Teams Collection': 'guide/teams-collection.md' 
+        - 'Player Resource': 'guide/player-resource.md' 
+        - 'Players Collection': 'guide/players-collection.md' 
+        - 'Transaction Resource': 'guide/transaction-resource.md' 
+        - 'Transactions Collection': 'guide/transactions-collection.md' 
+        - 'User Resource': 'guide/user-resource.md' 
+        - 'Users Collection': 'guide/users-collection.md' 
