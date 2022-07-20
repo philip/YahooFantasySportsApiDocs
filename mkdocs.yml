@@ -1,3 +1,5 @@
+site_name: Yahoo Fantasy Sports API Documentation
+repo_url: https://github.com/philip/YahooFantasySportsApiDocs
 nav:
     - Home: 'index.md'
     - 'Guide':
