@@ -6,7 +6,7 @@ nav:
         - 'Getting Started': 'guide/GettingStarted.md'
         - 'Resources and Collections': 'guide/ResourcesAndCollections.md'
         - 'Game Resource': 'guide/game-resource.md' 
-        - 'Game Collection': 'guide/game-collection.md' 
+        - 'Games Collection': 'guide/games-collection.md'
         - 'League Resource': 'guide/league-resource.md' 
         - 'Leagues Collection': 'guide/leagues-collection.md' 
         - 'Team Resource': 'guide/team-resource.md' 
